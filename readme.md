@@ -22,6 +22,12 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
    
 ### Day 1
 
-[Advent Of Code Link: Sleigh Fuel Calculations](https://adventofcode.com/2019/day/1)
+[AOC: Sleigh Fuel Calculations](https://adventofcode.com/2019/day/1)
 
-[Github Link: Day 1 Solution](https://github.com/scottmeschke/advent-of-code-2019/tree/master/aoc-d1)
+[Day 1 Solution](https://github.com/scottmeschke/advent-of-code-2019/tree/master/aoc-d1)
+
+### Day 2 
+
+[AOC: Intcode Computer Gravity Assist Calculations](https://adventofcode.com/2019/day/2)
+
+[Day 2 Solution](https://github.com/scottmeschke/advent-of-code-2019/tree/master/aoc-d2)
