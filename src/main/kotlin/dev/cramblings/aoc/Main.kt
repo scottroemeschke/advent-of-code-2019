@@ -1,21 +1,23 @@
 package dev.cramblings.aoc
 
 import dev.cramblings.aoc.d1.DayOne
-
-val days = listOf(DayOne)
+import dev.cramblings.aoc.d2.DayTwo
 
 fun main() {
     println("""
         
-        Running each days solutions.
+        Running each day's solutions.
     
     """.trimIndent())
 
-    days.forEach { it() }
+    DayOne()
+    DayTwo()
 
     println("""
         
         Finished.
+        
+        Happy Holidays!
     
     """.trimIndent())
 }

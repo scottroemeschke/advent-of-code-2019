@@ -15,7 +15,7 @@ repositories {
 
 dependencies {
 	implementation(kotlin("stdlib-jdk8"))
-	dependsOnDaysModules(1..1)
+	dependsOnDaysModules(1..2)
 }
 
 tasks.withType<Test> {
